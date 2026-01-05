@@ -1,1 +1,3 @@
 # AI-Based-Network-Intrusion-Detection-System-
+This project builds AI-powered Network Intrusion Detection System that uses a Random Forest classifier to classify network traffic as benign or malicious based on features like ports, flow duration, pocket counts, and activity metrics. It is implemented as an interactive Streamlit wed app that lets users load or simulates traffic data, train and evaluate the model with metrics such as accuracy and confusion Metrix and test “live traffic” by manually entering packet attributes to see if they flagged as attacks.
+<img width="9662" height="88" alt="image" src="https://github.com/user-attachments/assets/5e11a669-a0e3-49dd-a502-6940203f56b9" />
